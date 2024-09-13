@@ -1,0 +1,105 @@
+{
+  "db": {
+    "host": "10.123.232.11",
+    "user": "root",
+    "port": 3306,
+    "password": "Lyric@234",
+    "database": "7s-algorithm-test",
+    "charset": "utf8"
+  },
+  "manage": {
+    "ip": "127.0.0.1",
+    "port": 5000,
+    "static_port": 8877,
+    "clear_results_days": 90,
+    "results_pool": 8
+  },
+  "manage_server": {
+    "ip": "172.21.22.252",
+    "port": 9630
+  },
+  "cluster_server": {
+    "ip": "10.123.232.10"
+  },
+  "face": {
+    "ip": "127.0.0.1",
+    "port": 7000
+  },
+  "similarity": {
+    "0": {
+      "ip": "172.20.48.208",
+      "port": 5550
+    },
+    "1": {
+      "ip": "172.20.48.208",
+      "port": 5551
+    }
+  },
+  "ori_save_path": "/ltb_test/imgs",
+  "socket_server": {
+    "goods": {
+      "ip": "",
+      "port": 5552
+    },
+    "rope": {
+      "ip": "",
+      "port": 5553
+    },
+    "myyolov5": {
+        "ip": "",
+        "port": 5554
+    },
+    "phone": {
+        "ip": "",
+        "port": 5555
+    },
+    "invasion": {
+        "ip": "",
+        "port": 5556
+    },
+    "crowd": {
+        "ip": "",
+        "port": 5557
+    },
+    "objectRemove": {
+        "ip": "",
+        "port": 5558
+    },
+    "energy": {
+        "ip": "",
+        "port": 5559
+    },
+    "sleep": {
+      "ip": "",
+      "port": 5560
+    },
+    "tripwire": {
+      "ip": "",
+      "port": 5561
+    },
+    "face_scene": {
+      "ip": "",
+      "port": 5566
+    },
+    "haze": {
+      "ip": "",
+      "port": 5567
+    },
+    "person_number_detect": {
+      "ip": "",
+      "port": 5568
+    },
+    "suit_detect": {
+      "ip": "",
+      "port": 5569
+    },
+    "jump": {
+      "ip": "",
+      "port": 5570
+    },
+    "dwelltime": {
+      "ip": "",
+      "port": 5571
+    }
+  }
+}
