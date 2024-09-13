@@ -1,7 +1,6 @@
 # from multiprocessing import Queue
 import time
-# INPUT_LOCK = 0
-# OUTPUT_LOCK = 0
+
 
 class Invasion_Events():
 
