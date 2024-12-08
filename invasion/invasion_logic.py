@@ -8,7 +8,7 @@ import torch
 from invasion_global import IMG_QUEUE
 # print(sys.path)
 from invasion.invasion_events import Invasion_Events
-from rtmp.video_global import Algorithm_Images   # 根据摄像头存放图片
+from rtsp.video_global import Algorithm_Images   # 根据摄像头存放图片
 from invasion_web import InvasionApplication
 from invasion_function import yolov5Thread
 import threading

@@ -18,7 +18,7 @@ PARA_CONF_LOCK = Lock()
 
 class ShelterThread(threading.Thread):
     '''
-    yolov5线程
+    借鉴RCNN算法，摄像头遮挡检测
     '''
 
     def __init__(self, algorithm_id=None, parent=None):

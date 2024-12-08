@@ -88,7 +88,7 @@ if __name__ == '__main__':
     """
     {'msg': '操作成功', 'code': '200', 
     'data': {'id': '750715169084018688', 
-    'url': 'rtmp://rtmp01open.ys7.com:1935/v3/openpb/K26998187_1_1?begin=20240902110000&end=20240902110100&expire=1725342843&id=750715169084018688&rec=local&t=dca8ea13d7134fa395c71a8b68b9057edd4357805957b256b65c009dcbc257d3&ev=100', 
+    'url': 'rtsp://rtmp01open.ys7.com:1935/v3/openpb/K26998187_1_1?begin=20240902110000&end=20240902110100&expire=1725342843&id=750715169084018688&rec=local&t=dca8ea13d7134fa395c71a8b68b9057edd4357805957b256b65c009dcbc257d3&ev=100', 
     'expireTime': '2024-09-03 13:54:03'}
     }
     """

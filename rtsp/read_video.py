@@ -50,7 +50,7 @@ from get_video_url import *
 
 # >>>实时播放与回放>>>
 # RTMP流的URL
-# rtmp_url = ' rtmp://rtmp03open.ys7.com:1935/v3/openpb/K26430757_1_1?begin=20240901143928&end=20240902143928&expire=1725345568&id=750726597517631488&rec=local&t=0d41e682fc7a7501cd764f0fbf21a87508d10b80944790948de37ab33dfc5316&ev=100'
+# rtmp_url = ' rtsp://rtmp03open.ys7.com:1935/v3/openpb/K26430757_1_1?begin=20240901143928&end=20240902143928&expire=1725345568&id=750726597517631488&rec=local&t=0d41e682fc7a7501cd764f0fbf21a87508d10b80944790948de37ab33dfc5316&ev=100'
 
 
 # 视频流存入队列

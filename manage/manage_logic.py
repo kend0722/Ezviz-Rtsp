@@ -94,7 +94,7 @@ class mainManage(object):
         """
         time.sleep(2)
         run_str = "conda activate yolov5_seg & python -u "
-        software = "rtmp"
+        software = "rtsp"
         run_py = os.path.join(CLIENT_PATH, software, software + "_run.py")
         run_str += run_py
         # run_str += " --type camera"
